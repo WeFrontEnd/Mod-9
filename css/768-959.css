@@ -38,8 +38,8 @@
     }
 
     .slider__image {
-        top: -23px;
-        right: 47px;
+        top: -24px;
+		right: 31px;
     }
 
     .slider__left-arrow a {
@@ -52,16 +52,16 @@
     }
 
     .slider__selector {
-        bottom: -53px;
-        right: 139px;
+        bottom: -52px;
+        right: 127px;
     }
 
     .wrapper {
         width: 100%;
     }
 
-    .page-header {
-        height: 869px;
+    header {
+        height: 798px;
     }
 
     .logo__suffix {
@@ -76,17 +76,12 @@
 
     .menu {
         top: 138px;
-        left: -24px;
     }
 
     .menu--bottom {
         top: 39px;
         left: 19px;
         font-size: 20px;
-    }
-
-    .page-header {
-        height: 798px;
     }
 
     .top-row-bg {
@@ -260,7 +255,7 @@
 
     .logos {
         height: 119px;
-        background-position: center 25px;
+        background-position: 23px 25px;
         background-image: url(../img/logos-768.png);
     }
 
@@ -293,16 +288,16 @@
         overflow: hidden;
         width: 27%;
         height: 100%;
-        margin-left: 7.2%;
+        margin-left: 7.8888%;
     }
 
     .bottom-row__col3-3 {
         display: block;
-        float: left;
-        overflow: hidden;
-        width: 27.6%;
-        height: 100%;
-        margin-left: 7.2%;
+		float: right;
+		overflow: hidden;
+		width: 27.6%;
+		height: 100%;
+		margin-right: -.6%;
     }
 
     .news-categories__header {
@@ -314,13 +309,13 @@
         margin-top: 9px;
     }
 
-    .footer {
+    footer {
         height: 201px;
         background-image: url(../img/footer-768.jpg);
     }
 
     .designed {
         top: 92px;
-        right: 22px;
+        right: 4px;
     }
 }
